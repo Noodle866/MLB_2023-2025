@@ -66,15 +66,19 @@ After Analyzing are models we found that there are just to many variables to hav
 
 - [![Python 3.7.13](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)]([https://www.python.org/downloads/release/python-3713/) - Programming Language
 - [![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/docs/#) - Data maniupulation library
-- [![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/) - Multi-dimensional array library
-- [![Sklearn](https://img.shields.io/badge/Sklearn-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)](https://scikit-learn.org/stable/) - Machine learning
+- [![VScode](https://img.shields.io/badge/Vscode-777BB4?style=for-the-badge&logo=VScode&logoColor=white)](https://code.visualstudio.com/) - Integrated development environment 
+- [![Sklearn](https://img.shields.io/badge/Sklearn-2C2D72?style=for-the-badge&logo=Scikit&logoColor=white)](https://scikit-learn.org/stable/) - Machine learning
 - [![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=plotly&logoColor=white)](https://matplotlib.org/) - Visualization library for plots
 - [![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)](https://jupyter.org/) - Notebook IDE
 - [![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)](https://www.anaconda.com/) - Data science platform
 - [![Google](https://img.shields.io/badge/Google-3776AB?style=for-the-badge&logo=Google&logoColor=white)](https://www.google.com/) - Cloud-based storage and file-syncing service
-- [![Seaborn](https://img.shields.io/badge/Seaborn-44A833?style=for-the-badge&logo=anaconda&logoColor=white)](https://seaborn.pydata.org/) - Data Visualization
-- 
+- [![Seaborn](https://img.shields.io/badge/Seaborn-44A833?style=for-the-badge&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/) - Data visualization
+- [![Tableau](https://img.shields.io/badge/Tableau-3670A0?style=for-the-badge&logo=tableau&logoColor=ffdd54)](https://www.tableau.com/) - Data visualization
 
+https://stackoverflow.com/
 
+https://gemini.google.com/app
 
+https://chatgpt.com/
 
+https://baseballsavant.mlb.com/
