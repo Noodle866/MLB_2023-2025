@@ -82,3 +82,8 @@ https://gemini.google.com/app
 https://chatgpt.com/
 
 https://baseballsavant.mlb.com/
+
+# Authors 
+
+Cole Sherwin, Tomas Banuelos, Robert Lawrence, Andrew Njogu, Noah Stevenson
+
