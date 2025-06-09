@@ -54,7 +54,9 @@ Of course we made plenty of graphs and chart for you to look at. below is a quic
 ![image](https://github.com/user-attachments/assets/705b8519-23b3-4869-9890-3e67c1d8e807)
 
 ## Tableau
+![image](https://github.com/user-attachments/assets/30dce459-5b13-4cec-b337-d5912fd65760)
 
+![image](https://github.com/user-attachments/assets/b2e60212-512c-4efe-8c31-d01d1b25ac86)
 
 
 
